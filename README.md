@@ -40,6 +40,7 @@ Le code joint dans le fichier teleinfo.ino est à envoyer sur l'Arduino pour aff
 
 Si le système fonctionne, des informations comme celles ci-dessous doivent s'afficher dans le terminal Arduino :
 
+<code>
 ADCO 031128049974 G
 OPTARIF HC.. <
 ISOUSC 45 ?
@@ -51,6 +52,7 @@ IMAX 045 H
 PAPP 00410 &
 HHPHC C .
 MOTDETAT 000000 B
+</code>
  
 Les données peuvent être interprétées à l'aide de la [documentation](http://www.erdf.fr/medias/DTR_Racc_Comptage/ERDF-NOI-CPT_02E.pdf) d'EDF. Par exemple :
 - Les heures pleines sont en cours (PTEC),
