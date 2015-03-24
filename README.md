@@ -21,15 +21,15 @@ La méthode de la lecture directe, la plus simple, permet uniquement de vérifie
 ### Matériel et montage
 
 La matériel suivant est nécessaire :
-- Arduino Uno, avec câble USB et alimentation
-- Opto-coupleur SFH620A-2
-- Résistance d'environ 1,5 kOhm
+- Arduino Uno, avec câble USB et alimentation,
+- Opto-coupleur SFH620A-2,
+- Résistance d'environ 1,5 kOhm.
 
 Connecter les composants comme suit :
-- Le pin 4 de l'optocoupleur à l'entrée numérique D2 de l'Arduino
-- Le pin 3 à un pin GND de l'Arduino
-- Le pin 2 de l'optocoupleur à un des fils I1 ou I2 du compteur
-- Le pin 1 à la résistance puis au fil I1 ou I2 restant
+- Le pin 4 de l'optocoupleur à l'entrée numérique D2 de l'Arduino,
+- Le pin 3 à un pin GND de l'Arduino,
+- Le pin 2 de l'optocoupleur à un des fils I1 ou I2 du compteur,
+- Le pin 1 à la résistance puis au fil I1 ou I2 restant,
 - Les fils I1 et I2 sont normalement accessibles et visibles sur le compteur ERDF.
 
 ### Code source
