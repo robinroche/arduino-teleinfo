@@ -13,7 +13,7 @@ Les données de consommation d'un compteur électrique électronique ERDF peuven
 ### Principe de fonctionnement
 
 Deux méthodes sont possibles :
-- Lire et afficher directement le flux de données (décrit ci-dessous),
+- Lire et afficher directement le flux de données sur l'ordinateur (décrit ci-dessous),
 - Lire et stocker ces données sur une carte SD (à faire).
 
 La méthode de la lecture directe, la plus simple, permet uniquement de vérifier que la téléinfo fonctionne correctement, et de vérifier la réception des données.
