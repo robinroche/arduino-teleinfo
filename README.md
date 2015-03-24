@@ -52,7 +52,7 @@ PAPP 00410 &
 HHPHC C .
 MOTDETAT 000000 B
 
-Les données peuvent être interprétées à l'aide de la documentation d'EDF. PAr exemple :
+Les données peuvent être interprétées à l'aide de la [documentation](http://www.erdf.fr/medias/DTR_Racc_Comptage/ERDF-NOI-CPT_02E.pdf) d'EDF. Par exemple :
 - Les heures pleines sont en cours (PTEC),
 - La puissance consommée est de 410 VA (PAPP).
 
